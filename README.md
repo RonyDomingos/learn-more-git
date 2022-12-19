@@ -21,3 +21,14 @@ git push
 # How to view the storage versions?
 
 - git reflog 
+
+
+# Advanced Git
+
+* How go through past version? 
+- git reset --hard idVersion(164846)
+
+# Branch
+
+- git branch (list)
+- git branch "branchName" (create a new branch)
